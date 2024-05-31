@@ -8,6 +8,7 @@ Menu option:
 - Remove URL: Removes a given URL from the file.
 - Show Updates: shows the name of the added websites
 - Exit: close the program
+
 It also checks if a URL already exists in the file and internet connection because some of its methods require internet access.
 
 
