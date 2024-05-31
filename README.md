@@ -11,4 +11,5 @@ Menu option:
 It also checks if a URL already exists in the file and internet connection because some of its methods require internet access.
 
 
-![rsp](https://github.com/Kianaplv/RSS-Reader/assets/168345281/a281969e-c76e-497b-bc84-ab0472df58ae)
+![hjpl](https://github.com/Kianaplv/RSS-Reader/assets/168345281/3c3dab01-d150-4721-b2cb-e3c33bc4db73)
+
